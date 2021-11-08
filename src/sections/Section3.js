@@ -3,8 +3,8 @@ import nftvideo from '../assets/nft.mp4'
 
 export default function Section3() {
     return (
-        <section className="bg-black">
-          <div className="title">
+        <section className="bg-black pt-7">
+          <div className="title ml-10">
             Next-Gen NFTs
           </div>
           <div className="flex-container">
