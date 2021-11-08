@@ -1,13 +1,65 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+  font-family: Helvetica, serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.bg-black{
+  background-color: black;
+}
+
+.bg-img{
+  background: url("./assets/background.jpg");
+
+  height: 40vw;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-video{
+  width: 30vw;
+}
+
+.title{
+  text-align: center;
+  padding-top: 7vw;
+  font-size: 2.3vw;
+  font-weight: bold;
+  color: white;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.mt-2{
+  margin-top: 2vw;
+}
+
+.img-custom{
+  border-radius: 1vw;
+  width: 14vw;
+}
+
+.test1-text{
+  text-align: center;
+  width: 10vw;
+  font-size: 2vw;
+  /* background-color: red; */
+  color: white;
+  position: absolute;
+  left: 20vw;
+  top: 58vw;
+}
+
+.test2-text{
+  text-align: center;
+  width: 10vw;
+  font-size: 2vw;
+  /* background-color: red; */
+  color: white;
+  position: absolute;
+  left: 69vw;
+  top: 60vw;
 }
