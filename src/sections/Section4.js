@@ -4,7 +4,7 @@ import test2 from "../assets/test2.jpg";
 
 export default function Section4() {
 	return (
-		<section className="bg-img pt-3">
+		<section className="bg-img pt-3 p-rel">
 			<div className="title text-center">Lets shape this Metaverse Together</div>
 			<div className="flex-container mt-2">
 				<img src={test1} alt="" className="img-custom" />
