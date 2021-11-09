@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PortUI/static/css/main.ab5d923e.chunk.css",
+    "main.js": "/PortUI/static/js/main.efe47aab.chunk.js",
+    "main.js.map": "/PortUI/static/js/main.efe47aab.chunk.js.map",
+    "runtime-main.js": "/PortUI/static/js/runtime-main.84e90636.js",
+    "runtime-main.js.map": "/PortUI/static/js/runtime-main.84e90636.js.map",
+    "static/js/2.291aae32.chunk.js": "/PortUI/static/js/2.291aae32.chunk.js",
+    "static/js/2.291aae32.chunk.js.map": "/PortUI/static/js/2.291aae32.chunk.js.map",
+    "index.html": "/PortUI/index.html",
+    "static/css/main.ab5d923e.chunk.css.map": "/PortUI/static/css/main.ab5d923e.chunk.css.map",
+    "static/js/2.291aae32.chunk.js.LICENSE.txt": "/PortUI/static/js/2.291aae32.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/PortUI/static/media/homebg.f13b44e3.png",
+    "static/media/home.afd3f735.svg": "/PortUI/static/media/home.afd3f735.svg",
+    "static/media/instagram-icon.baf196aa.jpg": "/PortUI/static/media/instagram-icon.baf196aa.jpg",
+    "static/media/landscape.b2f5e9ac.jpg": "/PortUI/static/media/landscape.b2f5e9ac.jpg",
+    "static/media/nft.d211f69f.mp4": "/PortUI/static/media/nft.d211f69f.mp4",
+    "static/media/portrait.a829968f.jpg": "/PortUI/static/media/portrait.a829968f.jpg",
+    "static/media/test1.c1b7c518.jpg": "/PortUI/static/media/test1.c1b7c518.jpg",
+    "static/media/test2.e6b6719f.jpg": "/PortUI/static/media/test2.e6b6719f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84e90636.js",
+    "static/js/2.291aae32.chunk.js",
+    "static/css/main.ab5d923e.chunk.css",
+    "static/js/main.efe47aab.chunk.js"
+  ]
+}
