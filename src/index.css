@@ -12,7 +12,7 @@ body{
 .bg-img{
   background: url("./assets/background.jpg");
 
-  height: 30vw;;
+  height: 50vw;
   background-size: cover;
   background-position: center;
 }
@@ -35,9 +35,10 @@ body{
 }
 
 .title{
-  font-size: 2.3vw;
+  font-size: 4.7vw;
   font-weight: bold;
   color: white;
+  margin-bottom: 20px;
 }
 
 .flex-container{
@@ -63,31 +64,25 @@ body{
   margin-left: 10vw;
 }
 
+.img-container{
+  position: relative;
+  text-align: center;
+}
+
 .img-custom{
   border-radius: 1vw;
-  width: 14vw;
+  width: 35vw;
 }
 
-.test1-text{
+.img-text{
   text-align: center;
-  width: 10vw;
-  font-size: 2vw;
+  width: 30vw;
+  font-size: 4.5vw;
   /* background-color: red; */
   color: white;
   position: absolute;
-  left: 20vw;
-  top: 12vw;
-}
-
-.test2-text{
-  text-align: center;
-  width: 10vw;
-  font-size: 2vw;
-  /* background-color: red; */
-  color: white;
-  position: absolute;
-  left: 69vw;
-  top: 12vw;
+  left: 10px;
+  bottom: 40px;
 }
 
 
@@ -185,9 +180,9 @@ body{
 }
 
 .social-icon{
-  width: 100px;
-  height: 100px;
-  border-radius: 30px;
+  width: 60px;
+  height: 60px;
+  border-radius: 20px;
   margin-top: 30px;
 }
 
@@ -236,7 +231,7 @@ body{
   .home-container{
     width: 80vw;
     top: 20vh;
-    left: 13vw;
+    left: 14vw;
   }
 }
 

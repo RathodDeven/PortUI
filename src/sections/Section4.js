@@ -7,10 +7,14 @@ export default function Section4() {
 		<section className="bg-img pt-3 p-rel">
 			<div className="title text-center">Lets shape this Metaverse Together</div>
 			<div className="flex-container mt-2">
-				<img src={test1} alt="" className="img-custom" />
-				<div className="test1-text">Apply to become a creator</div>
-				<img src={test2} alt="" className="img-custom" />
-				<div className="test2-text">Join Discord</div>
+				<div className="img-container">
+				<img src={test1} alt="text" className="img-custom" />
+				<div className="img-text">Apply to become a creator</div>
+				</div>
+				<div className="img-container">
+				<img src={test2} alt="text" className="img-custom" />
+				<div className="img-text">Join Discord</div>
+				</div>
 			</div>
 		</section>
 	);

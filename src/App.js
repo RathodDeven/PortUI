@@ -1,5 +1,3 @@
-import LeftNav from "./components/LeftNav";
-import TopNav from "./components/TopNav";
 import Section1 from "./sections/Section1";
 import Section2 from "./sections/Section2";
 import Section3 from "./sections/Section3";
@@ -9,8 +7,7 @@ import Section5 from "./sections/Section5";
 function App() {
   return (
     <>
-      <TopNav />
-      <LeftNav />
+
       <Section1 />
       <Section2 />
       <Section3/>

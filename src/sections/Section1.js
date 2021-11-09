@@ -1,8 +1,12 @@
 import React from 'react'
+import LeftNav from '../components/LeftNav'
+import TopNav from '../components/TopNav'
 
 const Section1 = () => {
     return (
         <section className="homebg-img">
+                  <TopNav />
+      <LeftNav />
             <div className="home-container">
                 <div className="home-title">Welcome to the </div>
                 <div className="home-title-colored">Metaverse</div>

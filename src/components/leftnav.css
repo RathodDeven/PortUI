@@ -1,9 +1,9 @@
 
 .leftnav-container{
-    position: fixed;
+    position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: calc(100vh - 60px);
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 1;
   overflow-x: hidden;
